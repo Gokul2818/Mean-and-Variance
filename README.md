@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete distribution
-# Name: Monish Kumar.B 
-# Reg No : 212224040200
+# Name: GOKUL S
+# Reg No : 212224240045
 # Department : CSE
 # Date : 02.05.2025
 
