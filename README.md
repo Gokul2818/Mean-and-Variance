@@ -1,8 +1,8 @@
 #  Mean and variance of a discrete distribution
 # Name: GOKUL S
 # Reg No : 212224240045
-# Department : CSE
-# Date : 02.05.2025
+# Department : AI & ML
+# Date : 20.05.2025
 
 # Aim : 
 
